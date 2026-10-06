@@ -52,7 +52,7 @@ export default defineNuxtConfig({
   },
 
   site: {
-    url: 'https://nitrogen.nuxt.dev',
+    url: 'https://nitrogen.rylanharper.workers.dev',
     name: 'Nitrogen',
   },
 
@@ -64,7 +64,7 @@ export default defineNuxtConfig({
 
   robots: {
     disallow: ['/account', '/account/*'],
-    sitemap: 'https://nitrogen.nuxt.dev/sitemap.xml',
+    sitemap: 'https://nitrogen.rylanharper.workers.dev/sitemap.xml',
   },
 
   icon: {
